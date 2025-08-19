@@ -1,2 +1,3 @@
-**/*.csv
 **/*.zip
+archive/.ipynb_checkpoints/lightening_strikes_dataset-checkpoint.csv
+archive/lightening_strikes_dataset.csv

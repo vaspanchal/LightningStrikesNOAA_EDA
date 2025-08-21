@@ -1,4 +1,4 @@
-## Git Tracking .gitignore file fixed
+## Git Tracking .gitignore file fixed - reason = csv larger than 100 mb
 it was doing so coz .gitignore only ignores intracked files but the csv was already tracked and since it was very large in size, it caused issue
 
 ## fix
